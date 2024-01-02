@@ -1,2 +1,2 @@
 # portfolio-imgs
- (./age-calculator.png)
+![age calculator]](img/age-calculator.png)
